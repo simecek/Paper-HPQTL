@@ -8,6 +8,7 @@ Datasets:
 
 1) QTL Archive - data downloaded by 'qtlarchive_scraping.r' to 'data_qtlarchive' folder
 
+
 |dataset                                                                                   |type                     |founders                         |trait        |description                                                                                                           |
 |:-----------------------------------------------------------------------------------------|:------------------------|:--------------------------------|:------------|:---------------------------------------------------------------------------------------------------------------------|
 |[ankra-badu_2009](http://qtlarchive.org/db/q?pg=projdetails&proj=ankra-badu_2009)         |F2 intercross            |M16i L6                          |EARLY        |weight gain from 3-6 weeks       [g]                                                                                  |
