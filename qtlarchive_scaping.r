@@ -94,6 +94,7 @@ for (i in 8:nrow(master.table)) {
   stopifnot(length(n)==1)
   plot(scanone(cross, pheno.col=n, method="hk"), main= paste(master.table$dataset[i],":",master.table$trait[i]))
 }
+<<<<<<< HEAD
 
 ######################################
 # MARKDOWN TABLE
@@ -103,3 +104,5 @@ library(knitr)
 master.table$description<- sub("\n", " ", master.table$description)
 master.table$dataset <- paste0("[",master.table$dataset,"](http://qtlarchive.org/db/q?pg=projdetails&proj=",master.table$dataset,")")
 kable(master.table[,-1], format = "markdown")
+=======
+>>>>>>> e0546bdeccad5e14b3c50adf2498df9805ece8dc
