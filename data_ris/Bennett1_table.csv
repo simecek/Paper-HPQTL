@@ -1,0 +1,662 @@
+"Phenotype data set -- Mouse Phenome Database (phenome.jax.org)",,,,,,,,
+"Data set: Bennett1    Title: Body weight and growth curves in females of 97 ILSXISS recombinant inbred strains of mice    Year: 2005",,,,,,,,
+"Table of individual animal values",,,,,,,,,,,
+"For metadata and more info please see:  http://phenome.jax.org/db/q?rtn=projects/details&sym=Bennett1&mlistmode=varnames",,,,,,,,,,
+,,,,,,,,,,,
+strain,sex,id,generation,litter_num,litter_size,coat_color,bw_30,bw_60,bw_90,bw_120,bw_150,bw_180,bw_chg,strain_key
+ILSXISS1,f,54,12,1,6,albino,8.80,15.6,,,,,,1
+ILSXISS1,f,53,12,1,6,albino,10.1,17,,,,,,1
+ILSXISS1,f,378,13,1,6,albino,10.6,17.3,17.6,18.1,,,,1
+ILSXISS1,f,379,13,2,,albino,10,15.4,18.5,20.4,,,,1
+ILSXISS1,f,381,13,2,,albino,13,20.1,23.5,,,,,1
+ILSXISS1,f,380,13,2,,albino,14.4,18.9,20.3,21.7,,,,1
+ILSXISS2,f,57,12,1,7,albino,12.2,18.2,,,,,,2
+ILSXISS2,f,55,12,1,7,albino,12.3,19.2,,,,,,2
+ILSXISS2,f,56,12,1,7,albino,14.7,20.1,,,,,,2
+ILSXISS2,f,383,13,1,,albino,12,17.4,19.5,20.2,21.2,22.2,1.90,2
+ILSXISS2,f,382,13,1,,albino,11.6,17.3,18.7,20,20.9,21.9,1.90,2
+ILSXISS2,f,384,13,1,,albino,10.7,18.7,21.6,23.5,23.3,23.6,2.20,2
+ILSXISS3/TejJ,f,60,12,1,,brown,12.1,16.5,18.1,17.9,19,20.2,1.70,3
+ILSXISS3/TejJ,f,59,12,1,,brown,11.5,15.7,18.5,19.7,21.8,21.6,1.90,3
+ILSXISS3/TejJ,f,58,12,1,,brown,11.4,15.7,,,,,,3
+ILSXISS3/TejJ,f,61,12,1,,brown,,16.3,19.1,19,19.7,21,,3
+ILSXISS3/TejJ,f,614,21,1,,brown,13.2,17.4,19,18.6,,,,3
+ILSXISS3/TejJ,f,616,21,1,,brown,13.7,17.9,18.6,19.3,,,,3
+ILSXISS3/TejJ,f,615,21,1,,brown,15.4,19.4,20.5,20.9,,,,3
+ILSXISS4,f,62,12,1,9,albino,15.6,18.3,,,,,,4
+ILSXISS4,f,63,12,1,9,albino,15.8,19.3,,,,,,4
+ILSXISS4,f,64,12,1,9,albino,17.8,19.6,,,,,,4
+ILSXISS4,f,385,13,1,4,albino,18,20.9,23.2,,,,,4
+ILSXISS4,f,390,13,1,3,albino,18,20.9,23.2,,,,,4
+ILSXISS4,f,386,13,1,4,albino,18.6,21.8,22.8,,,,,4
+ILSXISS4,f,391,13,1,3,albino,18.6,21.8,22.8,,,,,4
+ILSXISS4,f,387,13,2,,albino,14.5,17.3,18.7,,,,,4
+ILSXISS4,f,392,13,2,,albino,14.5,17.3,18.7,,,,,4
+ILSXISS4,f,388,13,2,,albino,15.9,18.5,20.1,,,,,4
+ILSXISS4,f,393,13,2,,albino,15.9,18.5,20.1,,,,,4
+ILSXISS4,f,389,13,2,,albino,17.3,20.5,22.1,,,,,4
+ILSXISS4,f,394,13,2,,albino,17.3,20.5,22.1,,,,,4
+ILSXISS5/TejJ,f,67,12,1,6,albino,15.5,19.3,22.7,22.5,23.9,24.5,1.60,5
+ILSXISS5/TejJ,f,66,12,1,6,albino,15.1,20,22.7,23,24,25,1.70,5
+ILSXISS5/TejJ,f,65,12,1,6,albino,14.6,19.4,21.2,22,24.1,24.7,1.70,5
+ILSXISS6,f,68,12,1,5,albino,11.2,17.2,,,,,,6
+ILSXISS6,f,69,12,1,5,albino,16.1,20.5,,,,,,6
+ILSXISS6,f,70,12,1,5,albino,16.2,20.8,,,,,,6
+ILSXISS6,f,71,12,1,5,albino,17.2,21.4,,,,,,6
+ILSXISS7/TejJ,f,72,12,1,4,albino,17.6,19.6,23,22.6,25.3,25.3,1.40,7
+ILSXISS7/TejJ,f,73,12,1,4,albino,15,16.5,20.2,21.4,22.9,22.9,1.50,7
+ILSXISS7/TejJ,f,74,12,2,,albino,15.5,18.4,20.8,20.2,22.9,22.8,1.50,7
+ILSXISS7/TejJ,f,76,12,2,,albino,15.5,18,20.1,22,22.2,23,1.50,7
+ILSXISS7/TejJ,f,75,12,2,,albino,16.6,19.5,21.4,23.2,23,26.3,1.60,7
+ILSXISS8/TejJ,f,77,12,1,7,albino,14.7,19.9,,,,,,8
+ILSXISS8/TejJ,f,78,12,1,7,albino,15.3,18.8,,,,,,8
+ILSXISS8/TejJ,f,79,12,1,7,albino,17.5,18.9,,,,,,8
+ILSXISS8/TejJ,f,395,13,1,7,albino,10.4,19.4,21,,,,,8
+ILSXISS8/TejJ,f,396,13,1,7,albino,11.6,19,22,,,,,8
+ILSXISS8/TejJ,f,398,13,1,7,albino,11.7,19.4,22.4,,,,,8
+ILSXISS8/TejJ,f,397,13,1,7,albino,11.9,20.2,21.9,,,,,8
+ILSXISS8/TejJ,f,399,13,1,7,albino,12,20.7,22.5,,,,,8
+ILSXISS9/TejJ,f,80,12,1,,"dilute brown pink-eyed",11.8,13.8,16.2,16.3,18,19.6,1.70,9
+ILSXISS9/TejJ,f,81,12,1,,"dilute brown pink-eyed",11.7,16.2,17.1,19.6,19.5,21.2,1.80,9
+ILSXISS9/TejJ,f,82,12,1,,"dilute brown pink-eyed",8.80,11.4,12.8,14.9,16.7,17,1.90,9
+ILSXISS10,f,83,12,1,4,albino,14.8,19.7,,,,,,10
+ILSXISS10,f,84,12,1,4,albino,15.2,20.8,,,,,,10
+ILSXISS10,f,86,12,1,4,albino,16,22,,,,,,10
+ILSXISS10,f,85,12,1,4,albino,16.5,20.7,,,,,,10
+ILSXISS10,f,400,13,1,,albino,14.7,18.4,,,,,,10
+ILSXISS11,f,88,12,1,8,albino,12.3,16.7,,,,,,11
+ILSXISS11,f,89,12,1,8,albino,13.4,18.3,,,,,,11
+ILSXISS11,f,87,12,1,8,brown,11.6,16.2,,,,,,11
+ILSXISS11,f,402,13,1,,brown,14.9,17.7,20.7,22.1,22.4,21.6,1.40,11
+ILSXISS11,f,405,13,1,,brown,14.6,17,18,19.4,21.8,21.3,1.50,11
+ILSXISS11,f,404,13,1,,brown,13.6,16.1,18.6,19.8,20.4,21.6,1.60,11
+ILSXISS11,f,403,13,1,,brown,14.5,17.3,19.1,19.6,22,25.3,1.70,11
+ILSXISS11,f,401,13,1,,brown,9.70,14,15.7,17.5,,19.3,2,11
+ILSXISS12,f,92,12,1,5,brown,15,20.5,,,,,,12
+ILSXISS12,f,91,12,1,5,brown,15.6,23.1,,,,,,12
+ILSXISS12,f,410,13,1,10,albino,9.50,19.4,21.3,,,,,12
+ILSXISS12,f,406,13,1,10,albino,10,19.8,21.3,,,,,12
+ILSXISS12,f,408,13,1,10,albino,10.2,20.2,20.3,,,,,12
+ILSXISS12,f,409,13,1,10,albino,11.7,19.5,21.1,,,,,12
+ILSXISS12,f,407,13,1,10,albino,11.8,20.6,22,,,,,12
+ILSXISS14/TejJ,f,413,13,1,6,albino,13.4,20,23.4,26.2,,,,14
+ILSXISS14/TejJ,f,411,13,1,6,albino,14.3,21.8,24.9,32.5,,,,14
+ILSXISS14/TejJ,f,412,13,1,6,albino,14.5,21.2,23.7,,,,,14
+ILSXISS14/TejJ,f,414,13,1,6,albino,16.4,24.6,27.1,30.9,,,,14
+ILSXISS15,f,14,11,1,,brown,15,16.7,,,,,,15
+ILSXISS15,f,15,11,1,,brown,16.8,17.6,,,,,,15
+ILSXISS15,f,95,12,1,6,brown,14.4,16.8,19,20.4,21.3,20.9,1.50,15
+ILSXISS15,f,94,12,1,6,brown,13.2,16.2,18.7,20.3,21.1,21.6,1.60,15
+ILSXISS15,f,93,12,1,6,brown,12.3,14.2,17.6,19.3,21.6,20.7,1.70,15
+ILSXISS16/TejJ,f,97,12,1,,albino,17.9,22.5,25.4,26.1,29,28.6,1.60,16
+ILSXISS16/TejJ,f,98,12,1,,albino,16.7,22,23.6,24.8,27.3,26.9,1.60,16
+ILSXISS16/TejJ,f,96,12,1,,albino,16.8,23,24.4,25.9,28.8,29.9,1.80,16
+ILSXISS19/TejJ,f,100,12,1,7,albino,12.9,15.7,,,,,,19
+ILSXISS19/TejJ,f,101,12,1,7,albino,13.6,17.2,,,,,,19
+ILSXISS19/TejJ,f,99,12,1,7,albino,13.7,16.5,,,,,,19
+ILSXISS19/TejJ,f,418,13,1,7,albino,14.6,17.6,18.1,,,,,19
+ILSXISS19/TejJ,f,416,13,1,7,albino,14.8,16.8,18.6,,,,,19
+ILSXISS19/TejJ,f,415,13,1,7,albino,15,18,22.1,,,,,19
+ILSXISS19/TejJ,f,417,13,1,7,albino,15.2,17.3,18.5,,,,,19
+ILSXISS19/TejJ,f,419,13,1,7,albino,15.7,17,18.1,,,,,19
+ILSXISS22/TejJ,f,105,12,1,,albino,20.1,23.7,24.9,26.8,26.9,28,1.40,22
+ILSXISS22/TejJ,f,104,12,1,,albino,19.3,21.4,24.7,26.1,25.6,27.5,1.40,22
+ILSXISS22/TejJ,f,102,12,1,,albino,20.1,24.7,27.3,27.4,27.8,28.9,1.40,22
+ILSXISS22/TejJ,f,103,12,1,,albino,18.7,20.8,22.6,26,25.1,27,1.40,22
+ILSXISS23/TejJ,f,109,12,1,7,albino,10.4,17,,,,,,23
+ILSXISS23/TejJ,f,107,12,1,7,albino,12.3,16.9,,,,,,23
+ILSXISS23/TejJ,f,106,12,1,7,albino,13.3,16.3,,,,,,23
+ILSXISS23/TejJ,f,108,12,1,7,albino,13.6,17.5,,,,,,23
+ILSXISS23/TejJ,f,420,13,1,7,albino,12.2,18.2,,,,,,23
+ILSXISS23/TejJ,f,421,13,1,7,albino,13.5,21.8,,,,,,23
+ILSXISS24/TejJ,f,110,12,1,,albino,17.4,18,20.6,22.1,22.9,23.2,1.30,24
+ILSXISS24/TejJ,f,111,12,1,,albino,17.3,18.1,20.4,21.6,22.8,23.3,1.30,24
+ILSXISS24/TejJ,f,112,12,1,,albino,16.6,18.1,20.6,22.2,23.3,23,1.40,24
+ILSXISS25/TejJ,f,113,12,1,9,albino,15.3,19.8,,,,,,25
+ILSXISS25/TejJ,f,115,12,1,9,brown,16.9,19.2,,,,,,25
+ILSXISS25/TejJ,f,114,12,1,9,brown,17.5,21.4,,,,,,25
+ILSXISS25/TejJ,f,424,13,1,,"dilute brown",8.60,16.1,17.6,,,,,25
+ILSXISS25/TejJ,f,422,13,1,,"dilute brown",8.80,16.8,18.9,,,,,25
+ILSXISS25/TejJ,f,423,13,1,,"dilute brown",10.8,18.5,19.8,,,,,25
+ILSXISS25/TejJ,f,426,13,1,,"dilute brown",11,19,20.6,,,,,25
+ILSXISS25/TejJ,f,425,13,1,,"dilute brown",13.9,19.4,20.9,,,,,25
+ILSXISS26/TejJ,f,427,13,1,9,albino,11.7,17.2,20.5,22.1,,,,26
+ILSXISS26/TejJ,f,430,13,1,9,albino,12.3,17.8,20.6,21.2,,,,26
+ILSXISS26/TejJ,f,429,13,1,9,albino,12.6,19.1,22.1,23.4,,,,26
+ILSXISS26/TejJ,f,428,13,1,9,albino,13.1,17.9,21.2,22.5,,,,26
+ILSXISS27,f,117,12,1,5,"dilute brown pink-eyed",15.1,18.4,21.6,23.5,24,24.1,1.60,27
+ILSXISS27,f,116,12,1,5,"dilute brown pink-eyed",13.5,17.4,20.5,21.8,22.9,22.7,1.70,27
+ILSXISS27,f,118,12,2,,"dilute brown pink-eyed",13.7,19.5,21.7,22.4,23.9,24.7,1.80,27
+ILSXISS27,f,120,12,2,,"dilute brown pink-eyed",14.2,18.9,22.2,23.8,25.8,25.9,1.80,27
+ILSXISS27,f,119,12,2,,"dilute brown pink-eyed",11.8,18.6,20,20.6,21.3,22.2,1.90,27
+ILSXISS28/TejJ,f,1,9,1,,albino,11,19.5,21.8,,25.6,,,28
+ILSXISS28/TejJ,f,2,9,1,,albino,12.6,19.5,21.7,,,,,28
+ILSXISS28/TejJ,f,4,9,2,,albino,18.9,,,,,,,28
+ILSXISS28/TejJ,f,3,9,2,,albino,20.7,,,,,,,28
+ILSXISS28/TejJ,f,125,12,1,,"brown pink-eyed",17.9,22.7,,,,,,28
+ILSXISS28/TejJ,f,124,12,1,,"brown pink-eyed",20,23.2,,,,,,28
+ILSXISS28/TejJ,f,121,12,2,,"brown pink-eyed",16.8,18.1,19.6,21.7,23,23.8,1.40,28
+ILSXISS28/TejJ,f,123,12,2,,"brown pink-eyed",15.9,18.5,19.7,22.1,23.2,23.9,1.50,28
+ILSXISS28/TejJ,f,122,12,2,,"brown pink-eyed",15.1,18.6,20.6,22.1,23.1,23.4,1.50,28
+ILSXISS28/TejJ,f,432,13,1,,"brown pink-eyed",17.6,23.3,24.3,28.2,27.1,,,28
+ILSXISS28/TejJ,f,431,13,1,,"brown pink-eyed",18,23.4,26.1,25.6,27,,,28
+ILSXISS28/TejJ,f,667,22,1,,"brown pink-eyed",15,19.3,21.3,21.2,,,,28
+ILSXISS28/TejJ,f,665,22,1,,"brown pink-eyed",17,21.9,23.5,25.7,,,,28
+ILSXISS28/TejJ,f,666,22,1,,"brown pink-eyed",17.9,23.1,26.8,28.5,,,,28
+ILSXISS29,f,5,9,1,,albino,11,,21.8,22.3,,,,29
+ILSXISS29,f,6,9,1,,albino,12.6,,21.7,23.3,,,,29
+ILSXISS29,f,8,9,2,6,albino,18.9,,22.6,22.9,,,,29
+ILSXISS29,f,7,9,2,6,albino,20.7,,22.6,23.1,,,,29
+ILSXISS30,f,128,12,1,6,"dilute brown pink-eyed",9.60,15.8,,,,,,30
+ILSXISS30,f,126,12,1,6,"dilute brown pink-eyed",10.3,15.4,,,,,,30
+ILSXISS30,f,127,12,1,6,"dilute brown pink-eyed",10.5,17.6,,,,,,30
+ILSXISS30,f,436,13,1,8,"dilute brown pink-eyed",12.8,16.8,,,,,,30
+ILSXISS30,f,433,13,1,8,"dilute brown pink-eyed",13.6,18.4,,,,,,30
+ILSXISS30,f,434,13,1,8,"dilute brown pink-eyed",14.4,19.2,,,,,,30
+ILSXISS30,f,437,13,1,8,"dilute brown pink-eyed",14.5,21.1,,,,,,30
+ILSXISS30,f,435,13,1,8,"dilute brown pink-eyed",14.6,19.5,,,,,,30
+ILSXISS31,f,438,13,1,,albino,9.50,19,20.7,22,,,,31
+ILSXISS31,f,439,13,1,,albino,9.80,19.6,22,23.3,,,,31
+ILSXISS31,f,440,13,1,,albino,10.6,18.3,19.4,22.5,,,,31
+ILSXISS32/TejJ,f,132,12,1,5,albino,12.7,16.8,,,,,,32
+ILSXISS32/TejJ,f,130,12,1,5,"dilute brown pink-eyed",13.8,17.1,,,,,,32
+ILSXISS32/TejJ,f,131,12,1,5,"dilute brown pink-eyed",13.9,17.1,,,,,,32
+ILSXISS32/TejJ,f,443,13,1,,albino,16.2,,21.3,22.5,23.6,24.3,1.50,32
+ILSXISS32/TejJ,f,441,13,1,,albino,14.7,,20.3,21.2,22.1,22.6,1.50,32
+ILSXISS32/TejJ,f,442,13,1,,albino,16,,22.7,23.9,26.1,24.8,1.60,32
+ILSXISS33,f,16,11,1,4,albino,16.2,21.4,,,,,,33
+ILSXISS33,f,17,11,1,4,albino,16.3,23.5,,,,,,33
+ILSXISS33,f,133,12,1,,albino,16.7,22.3,22.1,25.6,,,,33
+ILSXISS33,f,134,12,1,,albino,14.9,19.1,21.3,23.1,,,,33
+ILSXISS33,f,135,12,2,,albino,15.4,16.9,19.7,22,,,,33
+ILSXISS33,f,136,12,2,,albino,17,20.3,21.1,24.4,,,,33
+ILSXISS34/TejJ,f,137,12,1,,"dilute brown pink-eyed",7.60,20.3,21.7,,,,,34
+ILSXISS34/TejJ,f,138,12,1,,"dilute brown pink-eyed",9.50,18.4,24.1,,,,,34
+ILSXISS34/TejJ,f,141,12,1,,"dilute brown pink-eyed",10.3,17.9,24.6,,,,,34
+ILSXISS34/TejJ,f,139,12,1,,"dilute brown pink-eyed",10.9,18.9,22.7,,,,,34
+ILSXISS34/TejJ,f,140,12,1,,"dilute brown pink-eyed",11.7,20.5,25.3,,,,,34
+ILSXISS34/TejJ,f,146,12,2,7,"brown pink-eyed",16.1,21.7,,25,28.5,27.3,1.70,34
+ILSXISS34/TejJ,f,145,12,2,7,"brown pink-eyed",16,22.4,,25.6,29.6,31.8,2,34
+ILSXISS34/TejJ,f,144,12,2,7,"brown pink-eyed",13.5,20,,24.3,26.4,27.8,2.10,34
+ILSXISS34/TejJ,f,143,12,2,7,"brown pink-eyed",11.9,19.8,,23.7,26.2,27.9,2.30,34
+ILSXISS34/TejJ,f,142,12,2,7,"brown pink-eyed",11.2,18.3,,24.1,26.4,28.2,2.50,34
+ILSXISS35,f,148,12,1,,albino,11.5,19.8,23.5,25.1,,,,35
+ILSXISS35,f,149,12,1,,albino,12.9,18,20.2,22.5,,,,35
+ILSXISS35,f,147,12,1,,albino,15.1,20.6,22.8,24,,,,35
+ILSXISS35,f,151,12,1,,albino,16,19.6,22.9,25.3,,,,35
+ILSXISS35,f,150,12,1,,albino,16.1,21,24.8,27.4,,,,35
+ILSXISS36/TejJ,f,153,12,1,5,albino,14,17.8,,,,,,36
+ILSXISS36/TejJ,f,152,12,1,5,albino,15.6,19.8,,,,,,36
+ILSXISS36/TejJ,f,154,12,1,5,"dilute brown pink-eyed",14.8,18.2,,,,,,36
+ILSXISS36/TejJ,f,155,12,1,5,"dilute brown pink-eyed",15.9,18.4,,,,,,36
+ILSXISS36/TejJ,f,156,12,2,,albino,16.9,19.9,21.4,21.4,22.7,23,1.40,36
+ILSXISS36/TejJ,f,157,12,2,,albino,16,19,22.2,22.4,22.8,25.1,1.60,36
+ILSXISS36/TejJ,f,158,12,2,,"dilute brown",14.5,17.6,19.3,21.1,23,24.8,1.70,36
+ILSXISS36/TejJ,f,160,12,2,,"dilute brown",13.5,19.3,19.9,21.6,22,,,36
+ILSXISS36/TejJ,f,159,12,2,,"dilute brown",15.1,18.9,22.6,24.2,22.5,,,36
+ILSXISS36/TejJ,f,445,13,1,,albino,16.7,20,21.5,,,,,36
+ILSXISS36/TejJ,f,446,13,1,,albino,16.7,18.4,19.5,,,,,36
+ILSXISS36/TejJ,f,447,13,1,,albino,16.8,19.1,,,,,,36
+ILSXISS36/TejJ,f,444,13,1,,albino,17.3,20.2,21.8,,,,,36
+ILSXISS38,f,161,12,1,,albino,14.5,19.4,,,,,,38
+ILSXISS38,f,165,12,2,,albino,17.2,17.5,19.3,20.9,,23.4,1.40,38
+ILSXISS38,f,163,12,2,,albino,16.9,16.8,18.9,21.5,,23.4,1.40,38
+ILSXISS38,f,162,12,2,,albino,17.4,18.5,21.1,23.6,,25.3,1.50,38
+ILSXISS38,f,164,12,2,,albino,16.6,18.5,20.1,22,,24.3,1.50,38
+ILSXISS38,f,449,13,3,,albino,14,19,21.4,,,,,38
+ILSXISS38,f,450,13,3,,albino,14,18.2,20.4,,,,,38
+ILSXISS38,f,448,13,3,,albino,14.6,17.4,18.7,,,,,38
+ILSXISS38,f,588,20,1,,albino,11.9,19.9,21,22.8,,,,38
+ILSXISS38,f,589,20,1,,albino,13.6,20.8,21.9,23.9,,,,38
+ILSXISS39/TejJ,f,166,12,1,5,albino,14.4,17.6,19.4,,,,,39
+ILSXISS39/TejJ,f,167,12,1,5,albino,14.7,18.2,18.9,,,,,39
+ILSXISS39/TejJ,f,454,13,1,7,albino,11.7,15.1,17.6,,,,,39
+ILSXISS39/TejJ,f,452,13,1,7,albino,14,18.3,19.6,,,,,39
+ILSXISS39/TejJ,f,453,13,1,7,albino,14.2,18.1,20,,,,,39
+ILSXISS39/TejJ,f,451,13,1,7,albino,14.8,19.5,20.7,,,,,39
+ILSXISS39/TejJ,f,668,22,1,,albino,14.5,18.9,20.5,20.5,,,,39
+ILSXISS39/TejJ,f,669,22,1,,albino,15,18.3,19.4,19.9,,,,39
+ILSXISS39/TejJ,f,670,22,1,,albino,15,17.7,21.3,20.7,,,,39
+ILSXISS40,f,19,11,1,,albino,15.5,20.4,22.4,25,26.1,26,1.70,40
+ILSXISS40,f,18,11,1,,albino,13.3,20.2,23.3,25,26,25.9,1.90,40
+ILSXISS40,f,170,12,1,,albino,14,18.6,20.1,20.9,22.6,22.7,1.60,40
+ILSXISS40,f,171,12,1,,albino,15.4,22,23.8,25.1,24.9,25.5,1.70,40
+ILSXISS40,f,169,12,1,,albino,13.9,20.6,22.1,24.1,23.6,23.9,1.70,40
+ILSXISS40,f,168,12,1,,albino,13.2,19.9,21.9,21.9,24,23.8,1.80,40
+ILSXISS41/TejJ,f,174,12,1,9,"dilute brown pink-eyed",13.8,15.9,,,,,,41
+ILSXISS41/TejJ,f,172,12,1,9,"dilute brown pink-eyed",14,19.1,,,,,,41
+ILSXISS41/TejJ,f,173,12,1,9,"dilute brown pink-eyed",14.5,18,,,,,,41
+ILSXISS41/TejJ,f,455,13,1,,"dilute brown pink-eyed",15,16.5,18.9,20.5,20.5,21.7,1.40,41
+ILSXISS41/TejJ,f,456,13,1,,"dilute brown pink-eyed",14.6,17.4,17.2,20.4,21.3,23.5,1.60,41
+ILSXISS41/TejJ,f,457,13,1,,"dilute brown pink-eyed",15.5,20.4,21.7,22.4,23.4,25,1.60,41
+ILSXISS42/TejJ,f,179,12,1,,albino,15.3,22,24.2,25.4,27.5,28,1.80,42
+ILSXISS42/TejJ,f,175,12,1,,albino,13.9,21.1,22.6,24.2,25.1,25.6,1.80,42
+ILSXISS42/TejJ,f,177,12,1,,albino,12.6,20.1,21.8,22.5,22.3,25.6,2,42
+ILSXISS42/TejJ,f,178,12,1,,albino,14,20.9,24.6,24.9,27.4,29.1,2.10,42
+ILSXISS42/TejJ,f,176,12,1,,albino,12.2,19.6,21.6,21.9,24.1,25.6,2.10,42
+ILSXISS42/TejJ,f,617,21,1,,albino,10.6,18.7,19.4,21.4,,,,42
+ILSXISS42/TejJ,f,618,21,1,,albino,12,20.4,22.7,23.6,,,,42
+ILSXISS43/TejJ,f,180,12,1,8,albino,14.2,18.5,,,,,,43
+ILSXISS43/TejJ,f,182,12,1,8,"dilute brown pink-eyed",11.7,17,,,,,,43
+ILSXISS43/TejJ,f,181,12,1,8,"dilute brown pink-eyed",13.7,16.1,,,,,,43
+ILSXISS43/TejJ,f,462,13,1,8,albino,12.1,17.3,20,,,,,43
+ILSXISS43/TejJ,f,459,13,1,8,albino,12.2,17.8,20.4,,,,,43
+ILSXISS43/TejJ,f,461,13,1,8,albino,13.4,19.1,21.7,,,,,43
+ILSXISS43/TejJ,f,458,13,1,8,albino,14,19.1,21.8,,,,,43
+ILSXISS43/TejJ,f,460,13,1,8,albino,14.2,19.7,21.5,,,,,43
+ILSXISS43/TejJ,f,619,21,1,,albino,9.40,17.4,17.5,18.7,,,,43
+ILSXISS43/TejJ,f,620,21,1,,albino,10.9,17.4,19.4,19.7,,,,43
+ILSXISS43/TejJ,f,623,21,1,,albino,11.5,17.9,19.7,19.4,,,,43
+ILSXISS43/TejJ,f,622,21,1,,albino,12.1,18.4,20.7,21.9,,,,43
+ILSXISS43/TejJ,f,624,21,1,,albino,12.3,19,21,21.7,,,,43
+ILSXISS43/TejJ,f,621,21,1,,albino,12.7,19.5,20.6,21.8,,,,43
+ILSXISS44,f,185,12,1,,albino,14.2,18.9,,,,,,44
+ILSXISS44,f,183,12,1,,albino,15.1,19.8,,,,,,44
+ILSXISS44,f,184,12,1,,albino,16,18.8,,,,,,44
+ILSXISS44,f,463,13,1,4,albino,13.3,15.3,18.9,,,,,44
+ILSXISS44,f,464,13,1,4,albino,15.4,18.8,20.3,,,,,44
+ILSXISS44,f,466,13,2,,albino,13,16.9,18.5,,,,,44
+ILSXISS44,f,465,13,2,,albino,13.5,20.9,20.9,,,,,44
+ILSXISS45,f,187,12,1,,"brown pink-eyed",15.4,20.7,22.5,24.2,23.6,26.1,1.70,45
+ILSXISS45,f,188,12,1,,"brown pink-eyed",14.3,20.2,21.4,22.9,23.3,24.5,1.70,45
+ILSXISS45,f,189,12,1,,"brown pink-eyed",11.7,21.3,21.2,21.4,23.4,22.4,1.90,45
+ILSXISS45,f,186,12,1,,"brown pink-eyed",15.7,22,23.1,,,,,45
+ILSXISS46/TejJ,f,190,12,1,,"dilute brown pink-eyed",13.4,20.4,22.4,23.4,25.1,24,1.80,46
+ILSXISS46/TejJ,f,191,12,1,,"dilute brown pink-eyed",13.3,20.6,21.4,24.2,24.9,24.7,1.90,46
+ILSXISS46/TejJ,f,193,12,1,,"dilute brown pink-eyed",13,19.5,21.6,22.1,23.5,24.4,1.90,46
+ILSXISS46/TejJ,f,192,12,1,,"dilute brown pink-eyed",14.1,20.9,23.1,24.9,26,28.6,2,46
+ILSXISS46/TejJ,f,625,21,1,,"brown pink-eyed",13.5,17.9,20.2,21,,,,46
+ILSXISS46/TejJ,f,626,21,1,,"brown pink-eyed",14,18.8,20.1,22,,,,46
+ILSXISS46/TejJ,f,627,21,1,,"brown pink-eyed",14,19,20.7,22.1,,,,46
+ILSXISS46/TejJ,f,628,21,1,,"brown pink-eyed",14.1,18.8,20.3,21,,,,46
+ILSXISS47,f,23,11,1,,"dilute brown pink-eyed",13,17,18.9,20.5,18.7,19.7,1.50,47
+ILSXISS47,f,22,11,1,,"dilute brown pink-eyed",11.6,17.2,19.3,19.4,19.1,19,1.60,47
+ILSXISS47,f,20,11,1,,"dilute brown pink-eyed",13.8,19.2,20.9,23.2,22.7,23.5,1.70,47
+ILSXISS47,f,21,11,1,,"dilute brown pink-eyed",10,17,19.4,19.8,19.6,20.8,2.10,47
+ILSXISS48/TejJ,f,197,12,1,,albino,14.4,18.5,20.6,23.5,24,23.4,1.60,48
+ILSXISS48/TejJ,f,196,12,1,,albino,12.5,16.1,18.1,19.8,22.6,21.5,1.70,48
+ILSXISS48/TejJ,f,195,12,1,,albino,10.7,15.8,17.6,20.2,21.3,21.6,2,48
+ILSXISS48/TejJ,f,194,12,1,,albino,9.20,15.1,16.9,15.7,18.6,19.3,2.10,48
+ILSXISS49/TejJ,f,199,12,1,6,brown,16.2,,,,,,,49
+ILSXISS49/TejJ,f,198,12,1,6,"dilute brown",15.1,20.3,,,,,,49
+ILSXISS49/TejJ,f,200,12,2,,brown,14.1,20.6,,,,,,49
+ILSXISS49/TejJ,f,468,13,1,,brown,,20.9,23.6,,25.3,26.9,,49
+ILSXISS49/TejJ,f,469,13,1,,brown,,20.3,22.5,,25,28.4,,49
+ILSXISS49/TejJ,f,470,13,1,,brown,,19,21.2,,24.1,24.7,,49
+ILSXISS49/TejJ,f,467,13,1,,albino,,19.8,21.2,,23,,,49
+ILSXISS51/TejJ,f,201,12,1,10,albino,15.2,16.9,,,,,,51
+ILSXISS51/TejJ,f,202,12,1,10,albino,15.4,19.1,,,,,,51
+ILSXISS51/TejJ,f,203,12,1,10,albino,16.2,20.5,,,,,,51
+ILSXISS51/TejJ,f,473,13,1,7,albino,14.2,17.9,20.8,,,,,51
+ILSXISS51/TejJ,f,475,13,1,7,albino,17,21.2,24.8,,,,,51
+ILSXISS51/TejJ,f,476,13,1,7,albino,17.2,21,24.2,,,,,51
+ILSXISS51/TejJ,f,477,13,1,7,albino,17.4,20.5,23,,,,,51
+ILSXISS51/TejJ,f,474,13,1,7,albino,17.7,21.8,24,,,,,51
+ILSXISS52/TejJ,f,204,12,1,5,albino,11.1,17.7,20,,,,,52
+ILSXISS52/TejJ,f,205,12,1,5,albino,11.6,19.1,21,,,,,52
+ILSXISS52/TejJ,f,206,12,2,,albino,15.5,20.4,,,,,,52
+ILSXISS52/TejJ,f,479,13,1,,albino,10.9,18.4,20.5,,,,,52
+ILSXISS52/TejJ,f,480,13,1,,albino,12,19.8,22.3,,,,,52
+ILSXISS52/TejJ,f,478,13,1,,albino,13.8,20,22.7,,,,,52
+ILSXISS54,f,207,12,1,,albino,16.8,23.6,26,26.5,,,,54
+ILSXISS54,f,481,13,1,,albino,13.7,17.2,21.3,21.1,,,,54
+ILSXISS54,f,482,13,1,,albino,15.3,17.9,21.8,22.2,,,,54
+ILSXISS55,f,208,12,1,4,albino,14.6,18.8,19.7,,,,,55
+ILSXISS55,f,209,12,2,,albino,15.5,20.1,19.6,,,,,55
+ILSXISS55,f,210,12,2,,albino,15.9,19.5,19.5,,,,,55
+ILSXISS55,f,483,13,1,,albino,,24.2,,23.7,26.6,,,55
+ILSXISS55,f,484,13,1,,albino,,,,,28.3,,,55
+ILSXISS55,f,486,13,2,,albino,17.8,18.4,20.8,24,26.5,,,55
+ILSXISS55,f,485,13,2,,albino,18.3,19.2,20.4,23.3,25.4,,,55
+ILSXISS55,f,592,20,1,,albino,15.3,20.4,23.6,25.6,,,,55
+ILSXISS55,f,590,20,1,,albino,15.9,20.3,23.6,25.4,,,,55
+ILSXISS55,f,591,20,1,,albino,17.7,22,24.9,26.1,,,,55
+ILSXISS55,f,593,20,2,3,albino,14.6,19.5,20.9,24.1,,,,55
+ILSXISS55,f,594,20,3,,albino,16.1,21.3,24,26.5,,,,55
+ILSXISS55,f,595,20,3,,albino,16.3,21.7,24.2,26.6,,,,55
+ILSXISS57,f,25,11,1,,albino,9.70,16.5,,,,,,57
+ILSXISS57,f,26,11,1,,albino,10,16.7,,,,,,57
+ILSXISS57,f,211,12,1,2,albino,13.5,16.5,19.9,22.3,21.8,,,57
+ILSXISS57,f,213,12,2,,albino,10.1,17.4,20.7,21.5,23,,,57
+ILSXISS57,f,214,12,2,,albino,10.3,18.5,20.4,22,22.5,,,57
+ILSXISS57,f,212,12,2,,albino,12.2,17,20.3,21.4,,,,57
+ILSXISS59,f,215,12,1,6,albino,14.9,19.1,,,,,,59
+ILSXISS59,f,216,12,1,6,albino,15.6,19.9,,,,,,59
+ILSXISS59,f,218,12,1,6,albino,15.9,20.8,,,,,,59
+ILSXISS59,f,217,12,1,6,albino,17,22.7,,,,,,59
+ILSXISS59,f,487,13,1,,albino,16.8,21,22.8,24.8,,,,59
+ILSXISS59,f,488,13,1,,albino,18.1,22.4,24.5,25.4,,,,59
+ILSXISS59,f,490,13,2,,albino,15.9,19.1,20,22,,,,59
+ILSXISS59,f,489,13,2,,albino,16.1,21,21.5,23.4,,,,59
+ILSXISS59,f,491,13,2,,albino,18.6,22.3,24.1,24.9,,,,59
+ILSXISS59,f,492,13,2,,albino,19,24.5,24.8,26.1,,,,59
+ILSXISS60/TejJ,f,220,12,1,8,albino,9.30,14.3,,,,,,60
+ILSXISS60/TejJ,f,223,12,1,8,albino,10.2,16.3,,,,,,60
+ILSXISS60/TejJ,f,219,12,1,8,albino,10.9,16.8,,,,,,60
+ILSXISS60/TejJ,f,221,12,1,8,albino,11,14.2,,,,,,60
+ILSXISS60/TejJ,f,222,12,1,8,albino,11,15.7,,,,,,60
+ILSXISS60/TejJ,f,495,13,1,4,albino,14.4,15.4,17.4,19.4,20.7,19.7,1.40,60
+ILSXISS60/TejJ,f,493,13,1,4,albino,12.2,13.4,14.8,16.4,17.3,17.8,1.50,60
+ILSXISS60/TejJ,f,494,13,1,4,albino,13.3,15.5,17.8,19.2,19.9,20.8,1.60,60
+ILSXISS61,f,226,12,1,,albino,13.6,20,20.8,22.4,24.1,23.8,1.80,61
+ILSXISS61,f,224,12,1,,albino,15.9,23.7,25.1,25.6,27.1,28.7,1.80,61
+ILSXISS61,f,225,12,1,,albino,14.8,20.7,21.9,23.8,24.5,27,1.80,61
+ILSXISS62/TejJ,f,227,12,1,,albino,14.9,16.7,,,,,,62
+ILSXISS62/TejJ,f,228,12,1,,albino,15.2,16.7,,,,,,62
+ILSXISS62/TejJ,f,229,12,1,,albino,16.5,18.4,,,,,,62
+ILSXISS62/TejJ,f,496,13,1,,albino,13.6,15.9,,,,,,62
+ILSXISS62/TejJ,f,497,13,2,,albino,19.1,20.2,,,,,,62
+ILSXISS64/TejJ,f,230,12,1,8,albino,13.7,17.3,,,,,,64
+ILSXISS64/TejJ,f,233,12,1,8,albino,14.5,18.9,,,,,,64
+ILSXISS64/TejJ,f,234,12,1,8,albino,14.5,16.8,,,,,,64
+ILSXISS64/TejJ,f,232,12,1,8,albino,14.6,17.5,,,,,,64
+ILSXISS64/TejJ,f,231,12,1,8,albino,15.8,17.7,,,,,,64
+ILSXISS64/TejJ,f,499,13,1,,albino,14.1,17.1,18.4,19.9,,,,64
+ILSXISS64/TejJ,f,498,13,1,,albino,13.8,18,19.7,20,,,,64
+ILSXISS64/TejJ,f,629,21,1,5,albino,12.8,15.7,16.7,16.7,,,,64
+ILSXISS64/TejJ,f,630,21,1,5,albino,15.6,18.2,20,20.2,,,,64
+ILSXISS66/TejJ,f,235,12,1,8,albino,12.6,15.7,,,,,,66
+ILSXISS66/TejJ,f,236,12,1,8,albino,13.8,17.1,,,,,,66
+ILSXISS66/TejJ,f,237,12,1,8,albino,13.9,17.4,,,,,,66
+ILSXISS66/TejJ,f,504,13,1,7,albino,11,14.3,17.5,,,,,66
+ILSXISS66/TejJ,f,501,13,1,7,albino,12.8,17.2,19.6,,,,,66
+ILSXISS66/TejJ,f,500,13,1,7,albino,12.9,17.5,20.7,,,,,66
+ILSXISS66/TejJ,f,502,13,1,7,albino,13.1,17.6,19.4,,,,,66
+ILSXISS66/TejJ,f,503,13,1,7,albino,13.6,18.5,20.3,,,,,66
+ILSXISS68,f,240,12,1,,brown,12.2,20.1,21.7,22.9,24.1,,,68
+ILSXISS68,f,238,12,1,,brown,9.40,18.8,21.1,21.5,22.8,,,68
+ILSXISS68,f,241,12,1,,brown,9,21,23,23.8,23.6,,,68
+ILSXISS68,f,239,12,1,,brown,10.8,,,,,,,68
+ILSXISS70/TejJ,f,242,12,1,2,albino,12.3,19,,,,,,70
+ILSXISS70/TejJ,f,505,13,1,,albino,13.2,19,20.2,22.6,,,,70
+ILSXISS70/TejJ,f,506,13,1,,albino,12.6,18.7,20.7,22.2,,,,70
+ILSXISS70/TejJ,f,509,13,2,,albino,15.8,17.7,20,21.6,,,,70
+ILSXISS70/TejJ,f,508,13,2,,albino,17,17.4,20.2,22,,,,70
+ILSXISS70/TejJ,f,507,13,2,,albino,17.3,18.4,20.3,22.3,,,,70
+ILSXISS72/TejJ,f,243,12,1,7,albino,13.8,17.9,,,,,,72
+ILSXISS72/TejJ,f,244,12,1,7,albino,13.9,18.2,,,,,,72
+ILSXISS72/TejJ,f,245,12,2,,albino,16.6,17.1,19.5,18.7,,,,72
+ILSXISS72/TejJ,f,246,12,2,,albino,17,17.7,20.6,20.6,,,,72
+ILSXISS72/TejJ,f,510,13,1,,albino,18.2,21.1,21.8,24.1,24.7,25.5,1.40,72
+ILSXISS72/TejJ,f,512,13,1,,albino,18.8,20.8,22.2,25.3,26.6,27.9,1.50,72
+ILSXISS72/TejJ,f,511,13,1,,albino,18.5,20.8,21.8,26.7,25.5,28.1,1.50,72
+ILSXISS72/TejJ,f,514,13,2,,albino,17.9,19.8,,23,24.6,,,72
+ILSXISS72/TejJ,f,513,13,2,,albino,18.3,21.4,,24.3,24.9,,,72
+ILSXISS73/TejJ,f,29,11,1,,"dilute brown pink-eyed",12,18.3,18.6,19,20.6,20.3,1.70,73
+ILSXISS73/TejJ,f,27,11,1,,albino,12,18.7,18.6,20.4,21.7,22.5,1.90,73
+ILSXISS73/TejJ,f,30,11,1,,"dilute brown pink-eyed",12.1,18.8,19.3,20.5,21.2,22.8,1.90,73
+ILSXISS73/TejJ,f,31,11,1,,"dilute brown pink-eyed",9.80,16.8,17,18.5,19.5,19.3,2,73
+ILSXISS73/TejJ,f,28,11,1,,"dilute brown pink-eyed",11.1,17.7,19.3,20.4,21.4,22.4,2,73
+ILSXISS73/TejJ,f,596,20,1,,albino,10.2,,17.7,18.5,,,,73
+ILSXISS73/TejJ,f,598,20,1,,albino,10.6,17.4,19.3,20.9,,,,73
+ILSXISS73/TejJ,f,597,20,1,,albino,10.7,17.5,18.6,19.2,,,,73
+ILSXISS74,f,248,12,1,6,albino,10.9,14.2,,,,,,74
+ILSXISS74,f,247,12,1,6,albino,11.3,15.5,,,,,,74
+ILSXISS74,f,249,12,1,6,albino,11.7,16,,,,,,74
+ILSXISS74,f,250,12,1,6,albino,12.4,18.1,,,,,,74
+ILSXISS74,f,515,13,1,,albino,10.9,14.9,,,,,,74
+ILSXISS74,f,516,13,1,,albino,11.4,15.3,,,,,,74
+ILSXISS74,f,517,13,1,,albino,12,15.6,,,,,,74
+ILSXISS74,f,518,13,1,,albino,12,15.8,,,,,,74
+ILSXISS75/TejJ,f,253,12,1,,"dilute brown pink-eyed",15.8,18.8,21.7,23.4,23.4,25,1.60,75
+ILSXISS75/TejJ,f,254,12,1,,"dilute brown pink-eyed",16.4,18.8,22.3,23,25.5,27.6,1.70,75
+ILSXISS75/TejJ,f,252,12,1,,"dilute brown pink-eyed",13.9,18.4,21.6,23.4,24.5,26,1.90,75
+ILSXISS75/TejJ,f,251,12,1,,"dilute brown pink-eyed",13.9,19,23.2,24.4,25.9,27.7,2,75
+ILSXISS75/TejJ,f,600,20,1,,"dilute brown pink-eyed",13.4,,,,,,,75
+ILSXISS75/TejJ,f,601,20,1,,"dilute brown pink-eyed",14.3,,,,,,,75
+ILSXISS75/TejJ,f,599,20,1,,"dilute brown pink-eyed",15.3,,,,,,,75
+ILSXISS75/TejJ,f,602,20,1,,"dilute brown pink-eyed",16.6,,,,,,,75
+ILSXISS76/TejJ,f,256,12,1,,albino,11.5,16.1,16.9,17.9,18.3,19.4,1.70,76
+ILSXISS76/TejJ,f,258,12,1,,albino,11.3,16.6,17.8,18.9,20.3,20.1,1.80,76
+ILSXISS76/TejJ,f,257,12,1,,albino,9.80,13.2,14.5,16.4,,17.7,1.80,76
+ILSXISS76/TejJ,f,255,12,1,,albino,10.6,15.3,17.7,18.6,20.1,20.1,1.90,76
+ILSXISS76/TejJ,f,259,12,1,,albino,10.5,14.6,17,18.3,19.3,20.5,2,76
+ILSXISS76/TejJ,f,603,20,1,,albino,13.9,18.4,20.9,22.6,,,,76
+ILSXISS76/TejJ,f,604,20,1,,albino,16.2,20.3,23.2,25.5,,,,76
+ILSXISS78/TejJ,f,261,12,1,7,"dilute brown pink-eyed",13.1,22,,,,,,78
+ILSXISS78/TejJ,f,260,12,1,7,"dilute brown pink-eyed",13.6,20.3,20.6,,,,,78
+ILSXISS78/TejJ,f,520,13,1,6,"dilute brown pink-eyed",12.7,19.4,19.6,21.3,,,,78
+ILSXISS78/TejJ,f,519,13,1,6,"dilute brown pink-eyed",13.2,20.2,21.9,22.3,,,,78
+ILSXISS78/TejJ,f,523,13,2,,"dilute brown pink-eyed",15.5,17.8,,,,,,78
+ILSXISS78/TejJ,f,521,13,2,,"dilute brown pink-eyed",17.6,21.1,22.3,23.1,,,,78
+ILSXISS78/TejJ,f,522,13,2,,"dilute brown pink-eyed",17.6,18.6,19.8,20.5,,,,78
+ILSXISS78/TejJ,f,631,21,1,4,"dilute brown",7.50,18.7,19.4,20.6,,,,78
+ILSXISS78/TejJ,f,632,21,1,4,"dilute brown",7.90,20.1,23.6,24.6,,,,78
+ILSXISS79,f,32,11,1,,"dilute brown pink-eyed",11,14.7,17,18.5,,,,79
+ILSXISS79,f,34,11,2,,"dilute brown pink-eyed",12.7,13.3,16.4,18.4,,,,79
+ILSXISS79,f,33,11,2,,"dilute brown pink-eyed",12.1,14,16.1,18.1,,,,79
+ILSXISS80/TejJ,f,263,12,1,,albino,14.7,21.4,24.2,25.6,26,26.8,1.80,80
+ILSXISS80/TejJ,f,264,12,1,,albino,13.9,20.5,23.8,24.8,27.1,26.9,1.90,80
+ILSXISS80/TejJ,f,262,12,1,,albino,15,23,25.5,26.7,27.8,29.1,1.90,80
+ILSXISS80/TejJ,f,633,21,1,7,albino,13.9,19.9,21.8,25.1,,,,80
+ILSXISS80/TejJ,f,634,21,1,7,albino,14.3,19.9,22.9,25.1,,,,80
+ILSXISS84/TejJ,f,265,12,1,,albino,15,18.9,23.1,23,24.4,24.8,1.70,84
+ILSXISS84/TejJ,f,268,12,1,,albino,15.6,18.6,22.6,23.7,24.9,25.8,1.70,84
+ILSXISS84/TejJ,f,266,12,1,,albino,14.5,20.9,23.6,23.3,23.8,24.8,1.70,84
+ILSXISS84/TejJ,f,267,12,1,,albino,14.6,20.7,24.5,24,25.5,25.9,1.80,84
+ILSXISS84/TejJ,f,269,12,1,,albino,14.5,18.8,22.3,23.7,25.3,26.2,1.80,84
+ILSXISS85,f,270,12,1,7,brown,12.6,20.4,,,,,,85
+ILSXISS85,f,271,12,1,7,brown,13.1,20.3,,,,,,85
+ILSXISS85,f,272,12,1,7,brown,13.9,21.9,,,,,,85
+ILSXISS85,f,525,13,1,,brown,14.9,,18,,,,,85
+ILSXISS85,f,527,13,1,,brown,16.1,,21.5,,,,,85
+ILSXISS85,f,526,13,1,,brown,18,,21.6,,,,,85
+ILSXISS85,f,524,13,1,,brown,20.5,,25,,,,,85
+ILSXISS86/TejJ,f,275,12,1,,albino,13.9,17.2,20.1,21.8,22.6,22.2,1.60,86
+ILSXISS86/TejJ,f,274,12,1,,albino,14.6,18.9,20.6,23,23.1,23.7,1.60,86
+ILSXISS86/TejJ,f,276,12,1,,albino,14.3,18.3,20.5,21.2,23.6,23.9,1.70,86
+ILSXISS86/TejJ,f,273,12,1,,albino,12.6,16.7,19.4,21.2,21.6,22.1,1.80,86
+ILSXISS86/TejJ,f,635,21,1,,albino,8.80,15.1,17.3,18.5,,,,86
+ILSXISS86/TejJ,f,638,21,1,,albino,13,19.5,20.2,21.3,,,,86
+ILSXISS86/TejJ,f,636,21,1,,albino,13.1,19,20.8,21.6,,,,86
+ILSXISS86/TejJ,f,637,21,1,,albino,13.3,19.2,20.3,21.8,,,,86
+ILSXISS87/TejJ,f,279,12,1,8,albino,15.4,22.2,,,,,,87
+ILSXISS87/TejJ,f,277,12,1,8,albino,15.5,21,,,,,,87
+ILSXISS87/TejJ,f,278,12,1,8,albino,15.5,21.4,,,,,,87
+ILSXISS87/TejJ,f,528,13,1,,albino,16.3,20.3,23.3,23.9,23.2,25.8,1.60,87
+ILSXISS87/TejJ,f,529,13,1,,albino,15.9,19.9,22.1,23.2,24.3,25.3,1.60,87
+ILSXISS87/TejJ,f,530,13,1,,albino,12.3,21.7,24.7,26.8,26.6,29.9,2.40,87
+ILSXISS88,f,280,12,1,10,brown,10.7,19.3,,,,,,88
+ILSXISS88,f,282,12,1,10,brown,10.8,19.5,,,,,,88
+ILSXISS88,f,281,12,1,10,brown,10.9,19.5,,,,,,88
+ILSXISS88,f,283,12,1,10,brown,11.7,20.7,,,,,,88
+ILSXISS88,f,534,13,1,7,brown,15.9,,,,,,,88
+ILSXISS88,f,532,13,1,7,brown,16,,,,,,,88
+ILSXISS88,f,533,13,1,7,brown,16.6,,,,,,,88
+ILSXISS88,f,531,13,1,7,albino,16.9,,,,,,,88
+ILSXISS89/TejJ,f,284,12,1,,brown,16.4,19.9,21.2,22.7,22.8,23.3,1.40,89
+ILSXISS89/TejJ,f,285,12,1,,brown,15.3,19.1,20.9,22.1,22.7,22.5,1.50,89
+ILSXISS89/TejJ,f,288,12,1,,brown,15.1,19.1,21.2,21.8,21.9,22.9,1.50,89
+ILSXISS89/TejJ,f,286,12,1,,brown,15.6,21.3,23.9,24.2,24.3,25.4,1.60,89
+ILSXISS89/TejJ,f,287,12,1,,brown,15.5,20.6,23.1,23.2,24.2,25.3,1.60,89
+ILSXISS89/TejJ,f,642,21,1,9,brown,11.5,18.4,20.8,21.2,,,,89
+ILSXISS89/TejJ,f,640,21,1,9,brown,11.9,18.3,21.2,21.6,,,,89
+ILSXISS89/TejJ,f,641,21,1,9,brown,11.9,18.8,20.6,21.4,,,,89
+ILSXISS89/TejJ,f,639,21,1,9,brown,12.4,19.2,20.6,22.3,,,,89
+ILSXISS89/TejJ,f,643,21,1,9,brown,12.4,18.2,20.3,20.2,,,,89
+ILSXISS90/TejJ,f,289,12,1,8,"dilute brown pink-eyed",17.4,22.1,,,,,,90
+ILSXISS90/TejJ,f,291,12,1,8,"dilute brown pink-eyed",18.2,22.1,,,,,,90
+ILSXISS90/TejJ,f,290,12,1,8,"dilute brown pink-eyed",19,23.1,,,,,,90
+ILSXISS90/TejJ,f,535,13,1,9,"brown pink-eyed",12.7,21.1,21.3,,,,,90
+ILSXISS90/TejJ,f,537,13,1,9,"brown pink-eyed",14.7,21.2,23,,,,,90
+ILSXISS90/TejJ,f,538,13,1,9,"brown pink-eyed",15.9,20.2,20.9,,,,,90
+ILSXISS90/TejJ,f,536,13,1,9,"brown pink-eyed",18,24,25.2,,,,,90
+ILSXISS92/TejJ,f,35,11,1,,"brown pink-eyed",,18,19.5,21.4,23.1,21.9,,92
+ILSXISS92/TejJ,f,36,11,1,,"brown pink-eyed",,19.1,20.2,22.8,23.4,23.3,,92
+ILSXISS92/TejJ,f,37,11,1,,"brown pink-eyed",,16.4,18.9,21.3,22.9,25.3,,92
+ILSXISS93/TejJ,f,39,11,1,,albino,14.8,19.7,,,,,,93
+ILSXISS93/TejJ,f,40,11,1,,albino,16.1,19.4,,,,,,93
+ILSXISS93/TejJ,f,38,11,1,,albino,17.6,21.7,,,,,,93
+ILSXISS93/TejJ,f,295,12,1,,albino,17,19.2,22.2,23.8,24,25.2,1.50,93
+ILSXISS93/TejJ,f,292,12,1,,albino,15.1,18.3,21.9,22.8,23.3,23.2,1.50,93
+ILSXISS93/TejJ,f,294,12,1,,albino,15.5,18.5,21,23.1,24.8,23.9,1.50,93
+ILSXISS93/TejJ,f,296,12,1,,albino,16.7,20,22.6,25.3,25.9,26.1,1.60,93
+ILSXISS93/TejJ,f,293,12,1,,albino,15.5,18.8,22.2,24.1,25.9,25.2,1.60,93
+ILSXISS93/TejJ,f,645,21,1,,albino,14.8,19,21.6,23.3,,,,93
+ILSXISS93/TejJ,f,646,21,1,,albino,15.1,18.9,21.7,22.8,,,,93
+ILSXISS93/TejJ,f,644,21,1,,albino,15.4,19.3,21.4,22.8,,,,93
+ILSXISS93/TejJ,f,648,21,2,7,albino,13.9,18.8,20.8,21.6,,,,93
+ILSXISS93/TejJ,f,649,21,2,7,albino,16,20.3,22.8,24,,,,93
+ILSXISS93/TejJ,f,647,21,2,7,albino,16.1,20.2,22,23.8,,,,93
+ILSXISS94/TejJ,f,298,12,1,,albino,17.9,19.3,22,23.2,23.2,24.3,1.40,94
+ILSXISS94/TejJ,f,297,12,1,,albino,17.6,19.1,21.8,21.8,23.5,25,1.40,94
+ILSXISS94/TejJ,f,299,12,1,,albino,17.3,20.2,20.5,22.1,22.6,25.1,1.50,94
+ILSXISS94/TejJ,f,300,12,1,,albino,16.7,19,20.4,21.6,22.4,24.7,1.50,94
+ILSXISS94/TejJ,f,302,12,1,,albino,17.1,22.5,,,,,,94
+ILSXISS94/TejJ,f,301,12,1,,albino,18.5,21.6,,,,,,94
+ILSXISS94/TejJ,f,540,13,1,,albino,13.8,17.7,19.9,,20.6,21.5,1.60,94
+ILSXISS94/TejJ,f,539,13,1,,albino,14.1,18,19.7,,21.9,22,1.60,94
+ILSXISS94/TejJ,f,541,13,1,,albino,14.2,18.8,21.6,,23.7,23.9,1.70,94
+ILSXISS94/TejJ,f,651,21,1,,albino,10.9,17.6,19.5,20.3,,,,94
+ILSXISS94/TejJ,f,650,21,1,,albino,11.8,18.4,21.2,22.3,,,,94
+ILSXISS94/TejJ,f,653,21,1,,albino,11.8,19.1,21.8,21.9,,,,94
+ILSXISS94/TejJ,f,652,21,1,,albino,11.9,18.3,21.2,21.8,,,,94
+ILSXISS94/TejJ,f,654,21,1,,albino,12.1,18.3,20.3,21.6,,,,94
+ILSXISS96/TejJ,f,9,10,1,,albino,17.1,23.4,24.7,26.7,27.2,,,96
+ILSXISS96/TejJ,f,11,10,2,,albino,20.5,22,24.9,25.7,26.4,,,96
+ILSXISS96/TejJ,f,10,10,2,,albino,20.7,24.1,26.1,25.8,27.9,,,96
+ILSXISS97/TejJ,f,303,12,1,,"dilute brown pink-eyed",12.5,14.8,17.5,19.2,20.5,,,97
+ILSXISS97/TejJ,f,304,12,1,,"dilute brown pink-eyed",14.3,16,17,18.6,20.2,,,97
+ILSXISS97/TejJ,f,305,12,1,,"dilute brown pink-eyed",15,17.4,18.6,20,20.1,,,97
+ILSXISS98/TejJ,f,306,12,1,7,albino,9.30,12.5,14.4,,,,,98
+ILSXISS98/TejJ,f,307,12,1,7,albino,12.3,15.4,16.6,,,,,98
+ILSXISS98/TejJ,f,308,12,1,7,albino,14.2,15.9,17.7,,,,,98
+ILSXISS98/TejJ,f,544,13,1,,albino,13.3,15,18.7,,,,,98
+ILSXISS98/TejJ,f,543,13,1,,albino,13.7,15,16.9,,,,,98
+ILSXISS98/TejJ,f,545,13,1,,albino,14.2,15.4,18,,,,,98
+ILSXISS98/TejJ,f,546,13,1,,albino,14.8,17,19.7,,,,,98
+ILSXISS98/TejJ,f,542,13,1,,albino,15,16.5,19.3,,,,,98
+ILSXISS99/TejJ,f,311,12,1,8,albino,15.9,19,,,,,,99
+ILSXISS99/TejJ,f,309,12,1,8,albino,16,20.8,,,,,,99
+ILSXISS99/TejJ,f,310,12,1,8,albino,16.1,20.4,,,,,,99
+ILSXISS99/TejJ,f,548,13,1,7,albino,11.5,18.8,,,,,,99
+ILSXISS99/TejJ,f,550,13,1,7,albino,12.4,17.1,,,,,,99
+ILSXISS99/TejJ,f,547,13,1,7,albino,14.4,18.3,,,,,,99
+ILSXISS99/TejJ,f,549,13,1,7,albino,14.4,16.8,,,,,,99
+ILSXISS101/TejJ,f,41,11,1,,albino,12.7,19.6,,,,,,101
+ILSXISS101/TejJ,f,44,11,1,,albino,13.5,20.1,,,,,,101
+ILSXISS101/TejJ,f,42,11,1,,albino,13.9,17.4,,,,,,101
+ILSXISS101/TejJ,f,43,11,1,,albino,14,19.4,,,,,,101
+ILSXISS101/TejJ,f,314,12,1,,albino,15.5,20.8,22.1,23.6,24.6,24.3,1.60,101
+ILSXISS101/TejJ,f,313,12,1,,albino,15.3,22.1,22.4,24.5,24.8,24,1.60,101
+ILSXISS101/TejJ,f,315,12,1,,albino,14.6,17.3,20.5,22.5,24,24.8,1.70,101
+ILSXISS101/TejJ,f,655,21,1,,albino,12.7,15.6,18.1,19.6,,,,101
+ILSXISS101/TejJ,f,656,21,1,,albino,15.5,18.7,20.9,21.4,,,,101
+ILSXISS101/TejJ,f,657,21,1,,albino,15.5,19.6,22.5,24.7,,,,101
+ILSXISS102/TejJ,f,319,12,1,6,albino,12.6,16.8,18.3,19.9,,,,102
+ILSXISS102/TejJ,f,318,12,1,6,albino,12.9,16.9,18.7,21.5,,,,102
+ILSXISS102/TejJ,f,316,12,1,6,albino,13.3,16.8,18.5,18.8,,,,102
+ILSXISS102/TejJ,f,317,12,1,6,albino,13.7,17.4,19.2,21.4,,,,102
+ILSXISS102/TejJ,f,551,13,1,,albino,14.7,15.4,17.7,,,,,102
+ILSXISS102/TejJ,f,555,13,2,,albino,13.9,14.5,18,19.8,,,,102
+ILSXISS102/TejJ,f,553,13,2,,albino,14,14.4,18.9,20,,,,102
+ILSXISS102/TejJ,f,552,13,2,,albino,14.8,15.2,18.5,21.1,,,,102
+ILSXISS102/TejJ,f,554,13,2,,albino,14.8,15.4,18.8,22.2,,,,102
+ILSXISS103/TejJ,f,46,11,1,,"dilute brown pink-eyed",14,19.3,20.1,21.7,22.4,23.2,1.70,103
+ILSXISS103/TejJ,f,45,11,1,,"dilute brown pink-eyed",12.3,14.5,18.8,19.7,20.7,20.7,1.70,103
+ILSXISS103/TejJ,f,48,11,1,,"dilute brown pink-eyed",13.6,18.3,20.5,22.4,22.9,23.7,1.70,103
+ILSXISS103/TejJ,f,47,11,1,,"dilute brown pink-eyed",11.8,18.2,19.4,19.3,21.6,21.7,1.80,103
+ILSXISS103/TejJ,f,605,20,1,,"dilute brown",11.7,16.3,18.5,18.7,,,,103
+ILSXISS103/TejJ,f,606,20,1,,"dilute brown",12.3,16.8,18.4,18.6,,,,103
+ILSXISS103/TejJ,f,607,20,1,,"dilute brown",12.3,17.9,20,19.5,,,,103
+ILSXISS103/TejJ,f,609,20,1,,"dilute brown",13.2,17.6,19.3,19.7,,,,103
+ILSXISS103/TejJ,f,610,20,1,,"dilute brown",13.4,16.8,18.9,19.6,,,,103
+ILSXISS103/TejJ,f,608,20,1,,"dilute brown",13.7,18.3,20,21.4,,,,103
+ILSXISS106,f,320,12,1,9,albino,11.9,16.4,19.2,,,,,106
+ILSXISS106,f,321,12,1,9,albino,13.1,19,22.3,,,,,106
+ILSXISS106,f,322,12,1,9,albino,14.3,18.6,21,,,,,106
+ILSXISS107/TejJ,f,324,12,1,,albino,12.2,16.1,,,,,,107
+ILSXISS107/TejJ,f,323,12,1,7,albino,12.6,15,,,,,,107
+ILSXISS107/TejJ,f,325,12,1,,albino,13,16.8,,,,,,107
+ILSXISS107/TejJ,f,326,12,1,,albino,13,16.1,,,,,,107
+ILSXISS107/TejJ,f,556,13,1,8,albino,9.20,13.8,,,,,,107
+ILSXISS107/TejJ,f,557,13,1,8,albino,9.20,14.6,,,,,,107
+ILSXISS107/TejJ,f,558,13,1,8,albino,10.1,16.4,,,,,,107
+ILSXISS107/TejJ,f,559,13,1,8,albino,12.9,15.9,,,,,,107
+ILSXISS108,f,329,12,1,7,albino,18.2,18.7,21.9,25.2,24.6,24.8,1.40,108
+ILSXISS108,f,330,12,1,7,albino,18.2,20.1,21.7,24.6,23.6,25.2,1.40,108
+ILSXISS108,f,328,12,1,7,albino,16.6,19.5,21.7,23.9,24.2,24.6,1.50,108
+ILSXISS108,f,327,12,1,7,albino,14,18.3,20.9,22.5,22.4,23.5,1.70,108
+ILSXISS109,f,333,12,1,9,"dilute brown pink-eyed",13.3,15.4,18.1,19.8,21.7,22.2,1.70,109
+ILSXISS109,f,334,12,1,9,"dilute brown pink-eyed",9.80,13.5,15.9,17.9,18.5,18.1,1.80,109
+ILSXISS109,f,332,12,1,9,"dilute brown pink-eyed",12.3,16.8,19.5,22.4,23,25,2,109
+ILSXISS109,f,331,12,1,9,albino,12,17.4,20.8,24.1,25,27.4,2.30,109
+ILSXISS110/TejJ,f,335,12,1,,brown,14.5,21,,,,,,110
+ILSXISS110/TejJ,f,336,12,1,,brown,14.5,20.2,,,,,,110
+ILSXISS110/TejJ,f,337,12,1,,brown,15.6,20.1,,,,,,110
+ILSXISS110/TejJ,f,560,13,1,4,brown,12.5,18.6,,,,,,110
+ILSXISS110/TejJ,f,562,13,1,4,brown,14.5,19.5,,,,,,110
+ILSXISS110/TejJ,f,561,13,1,4,brown,15.1,19.9,,,,,,110
+ILSXISS110/TejJ,f,563,13,1,4,brown,15.3,19.4,,,,,,110
+ILSXISS111,f,338,12,1,,albino,16,17.2,19.3,21.3,20.6,22,1.40,111
+ILSXISS111,f,340,12,1,,albino,15.5,17.7,21.1,21.3,20.7,22.7,1.50,111
+ILSXISS111,f,339,12,1,,albino,15,17.6,19.6,20.3,20.6,22.3,1.50,111
+ILSXISS111,f,341,12,1,,albino,14.1,16.8,18.7,19.6,20.4,21.7,1.50,111
+ILSXISS112/TejJ,f,344,12,1,,albino,14,18.5,,,,,,112
+ILSXISS112/TejJ,f,345,12,1,,albino,14.4,20.1,,,,,,112
+ILSXISS112/TejJ,f,343,12,1,,albino,14.5,19.7,,,,,,112
+ILSXISS112/TejJ,f,342,12,1,,albino,14.6,19.5,,,,,,112
+ILSXISS112/TejJ,f,566,13,1,,albino,14.2,18.4,21,22.7,24.8,,,112
+ILSXISS112/TejJ,f,564,13,1,,albino,15.1,17.8,22.1,23.5,25.8,,,112
+ILSXISS112/TejJ,f,565,13,1,,albino,15.9,19.6,23,23.8,25.2,,,112
+ILSXISS112/TejJ,f,613,20,1,,albino,15.7,21,22.8,24.2,,,,112
+ILSXISS112/TejJ,f,611,20,1,,albino,16,21.8,24.3,24.9,,,,112
+ILSXISS112/TejJ,f,612,20,1,,albino,16,20.1,22.6,23.4,,,,112
+ILSXISS112/TejJ,f,659,21,2,,albino,11.9,16.1,18.2,19.1,,,,112
+ILSXISS112/TejJ,f,658,21,2,,albino,13.7,17.8,19.6,22,,,,112
+ILSXISS112/TejJ,f,660,21,2,,albino,15.1,16.7,19.6,20.3,,,,112
+ILSXISS114/TejJ,f,348,12,1,6,"dilute brown pink-eyed",12.9,17.4,20.2,21,,,,114
+ILSXISS114/TejJ,f,347,12,1,6,"dilute brown pink-eyed",13.6,19.1,21,22.2,,,,114
+ILSXISS114/TejJ,f,346,12,1,6,"dilute brown pink-eyed",13.8,17.7,21.2,21.9,,,,114
+ILSXISS114/TejJ,f,567,13,1,,"albino+dilute brown pink-eyed",,14,16.1,18.7,,,,114
+ILSXISS114/TejJ,f,568,13,1,,"albino+dilute brown pink-eyed",,15.6,19.8,21.4,,,,114
+ILSXISS114/TejJ,f,569,13,1,,"albino+dilute brown pink-eyed",,14.2,18.3,20.5,,,,114
+ILSXISS114/TejJ,f,570,13,1,,"albino+dilute brown pink-eyed",,15.3,18.6,20.8,,,,114
+ILSXISS114/TejJ,f,571,13,1,,"albino+dilute brown pink-eyed",,15.7,18.6,19.6,,,,114
+ILSXISS114/TejJ,f,576,13,1,,"albino+dilute brown pink-eyed",12.9,,,,,,,114
+ILSXISS114/TejJ,f,574,13,1,,"albino+dilute brown pink-eyed",13,,,,,,,114
+ILSXISS114/TejJ,f,572,13,1,,"albino+dilute brown pink-eyed",13.4,,,,,,,114
+ILSXISS114/TejJ,f,573,13,1,,"albino+dilute brown pink-eyed",13.6,,,,,,,114
+ILSXISS114/TejJ,f,575,13,1,,"albino+dilute brown pink-eyed",14.5,,,,,,,114
+ILSXISS115/TejJ,f,349,12,1,,"dilute brown pink-eyed",15.5,,,,,,,115
+ILSXISS115/TejJ,f,350,12,1,,"dilute brown pink-eyed",15.8,,,,,,,115
+ILSXISS115/TejJ,f,580,13,1,5,"dilute brown pink-eyed",15.6,20.7,24.3,,,,,115
+ILSXISS115/TejJ,f,579,13,1,5,"dilute brown pink-eyed",16.3,20.3,23.8,,,,,115
+ILSXISS115/TejJ,f,578,13,1,5,"dilute brown pink-eyed",16.6,20.2,22.5,,,,,115
+ILSXISS115/TejJ,f,577,13,1,5,"dilute brown pink-eyed",17,21.2,24.2,,,,,115
+ILSXISS116,f,353,12,1,,albino,12.9,18.8,22.5,23.1,,,,116
+ILSXISS116,f,354,12,1,,albino,13.2,20.1,21.3,21.2,,,,116
+ILSXISS116,f,352,12,1,,albino,14.3,20.6,22.7,24.2,,,,116
+ILSXISS116,f,351,12,1,,albino,14.4,21.1,23.5,24.4,,,,116
+ILSXISS116,f,581,13,1,,albino,18.2,20.1,22,22.8,,,,116
+ILSXISS116,f,583,13,1,,albino,18.7,21.8,23.9,24.3,,,,116
+ILSXISS116,f,582,13,1,,albino,18.9,22.4,23,23.8,,,,116
+ILSXISS117,f,355,12,1,,albino,13.4,19.4,22,,,,,117
+ILSXISS117,f,661,21,1,,albino,11.7,16.7,18.4,,,,,117
+ILSXISS117,f,662,21,1,,albino,14.6,19.4,21.5,,,,,117
+ILSXISS117,f,663,21,2,7,albino,12.1,16.7,18.8,,,,,117
+ILSXISS117,f,664,21,2,7,albino,12.1,17.9,20.8,,,,,117
+ILSXISS119,f,358,12,1,8,albino,15.9,19.6,21.2,22,,,,119
+ILSXISS119,f,357,12,1,8,albino,13.9,17.5,19,19.8,,,,119
+ILSXISS119,f,356,12,1,8,albino,11.5,17.5,19,20.3,,,,119
+ILSXISS121,f,363,12,1,,"dilute brown pink-eyed",12.7,15.5,17.5,18.3,,,,121
+ILSXISS121,f,364,12,1,,"dilute brown pink-eyed",13.4,17.2,18.9,20,,,,121
+ILSXISS121,f,361,12,1,,"dilute brown pink-eyed",13.5,18.6,20.9,21.5,,,,121
+ILSXISS121,f,362,12,1,,"dilute brown pink-eyed",14.8,17.8,20.5,22.1,,,,121
+ILSXISS122/TejJ,f,366,12,1,6,"dilute brown pink-eyed",13.1,20.1,,,,,,122
+ILSXISS122/TejJ,f,365,12,1,6,"dilute brown pink-eyed",15.6,20.4,,,,,,122
+ILSXISS122/TejJ,f,368,12,2,,"dilute brown pink-eyed",16,21.1,23,,,,,122
+ILSXISS122/TejJ,f,367,12,2,,"dilute brown pink-eyed",16,20.3,22.2,,,,,122
+ILSXISS122/TejJ,f,584,13,1,8,"brown pink-eyed",13.4,17.7,20.7,,,,,122
+ILSXISS122/TejJ,f,585,13,1,8,"brown pink-eyed",17.3,20.6,23.5,,,,,122
+ILSXISS122/TejJ,f,587,13,1,8,"brown pink-eyed",17.4,20.3,23,,,,,122
+ILSXISS122/TejJ,f,586,13,1,8,"brown pink-eyed",17.8,20.1,22,,,,,122
+ILSXISS123/TejJ,f,369,12,1,,brown,14.5,16.9,20.7,21.4,21.9,23.1,1.60,123
+ILSXISS123/TejJ,f,370,12,1,,brown,14.6,16.6,19,20.2,21.3,23.3,1.60,123
+ILSXISS123/TejJ,f,371,12,2,,brown,14.1,17.3,19.3,21.2,21.9,23.3,1.70,123
+ILSXISS124,f,373,12,1,,albino,11.4,,,,,,,124
+ILSXISS124,f,372,12,1,,albino,12.2,,,,,,,124
+ILSXISS124,f,374,12,2,,albino,9.30,15.9,18.2,19.8,20.6,20.6,2.20,124
+ILSXISS124,f,375,12,2,,albino,7.40,16.3,17.8,20.4,20.5,21.6,2.90,124
+ILSXISS124,f,376,12,2,,albino,7.10,16.5,17.7,21.4,21.7,22,3.10,124
+ILSXISS124,f,377,12,2,,albino,7.30,16,17.4,20.2,19.8,,,124
