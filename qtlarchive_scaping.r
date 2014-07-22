@@ -44,12 +44,12 @@ master.table <- rbind(master.table,
 master.table <- rbind(master.table,
                       download.category("http://qtlarchive.org/db/q?pg=phenolist&reqcat1=body%20weight%20size%20and%20growth&reqcat2=body%20weight%20growth%20curve"))
 
-ignore.list <- read.csv("data_mastersheets/qtlarchive_ignore.csv", as.is=TRUE)
+ignore.list <- read.csv("data_qtlarchive/_ignore_qtlarchive.csv", as.is=TRUE)
 ignore.list$hash <- paste(ignore.list$dataset, ignore.list$trait)
 
 master.table <- subset(master.table, !(paste(dataset, trait) %in% ignore.list$hash))
 
-write.csv(master.table, "data_mastersheets/qtlarchive.csv", row.names=FALSE)
+write.csv(master.table, "data_qtlarchive/_mastersheet_qtlarchive.csv", row.names=FALSE)
 
 #####################################
 # MANUAL CURATION
@@ -58,7 +58,9 @@ write.csv(master.table, "data_mastersheets/qtlarchive.csv", row.names=FALSE)
 # leitner_2009 - ChrX deleted (all genotypes are N)
 # zhang_2012 - ^M deleted
 # beamer should be "body_wt", not "bw"
-
+# chesler - deleted a line with missing sex
+# peters_2004 bw typo (obs #72) corrected
+# reifsnyder_2000 - the only marker on chrX duplicated (otherwise, R/qtl create 2 extra markers and HPQTL collapses)
 
 #####################################
 # TRY TO LOAD THEM
@@ -79,9 +81,9 @@ for (i in 1:length(datalist)) {
 # TRY TO PLOT LODSCORE
 ####################################
 
-master.table <- read.csv("data_mastersheets/qtlarchive.csv", as.is=TRUE)
+master.table <- read.csv("data_qtlarchive/_mastersheet_qtlarchive.csv", as.is=TRUE)
 
-for (i in 8:nrow(master.table)) {
+for (i in 1:nrow(master.table)) {
   csv.name <- paste0("data_qtlarchive/",master.table$dataset[i],".csv")
   
   # guess calls
@@ -94,7 +96,6 @@ for (i in 8:nrow(master.table)) {
   stopifnot(length(n)==1)
   plot(scanone(cross, pheno.col=n, method="hk"), main= paste(master.table$dataset[i],":",master.table$trait[i]))
 }
-<<<<<<< HEAD
 
 ######################################
 # MARKDOWN TABLE
@@ -104,5 +105,4 @@ library(knitr)
 master.table$description<- sub("\n", " ", master.table$description)
 master.table$dataset <- paste0("[",master.table$dataset,"](http://qtlarchive.org/db/q?pg=projdetails&proj=",master.table$dataset,")")
 kable(master.table[,-1], format = "markdown")
-=======
->>>>>>> e0546bdeccad5e14b3c50adf2498df9805ece8dc
+

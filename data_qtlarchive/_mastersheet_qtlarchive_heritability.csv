@@ -1,0 +1,64 @@
+database,dataset,type,founders,trait,description,h2,totmar,nind,observed
+QTL Archive,ankra-badu_2009,F2 intercross,M16i L6,WK10,"weight at week 10 
+     [g]",0.545046611,62,1005,0.9960199
+QTL Archive,bautz_2013,F2 reciprocal intercross,KK/HlJ I/LnJ,Bleed_Wt,"weight at time of bleeding 
+     [g]",0.501920617,137,241,0.995850622
+QTL Archive,beamer_2001,F2 intercross,C57BL/6J C3H/HeJ,body_wt,"body weight 
+     [g]",0.35443272,107,999,0.965965966
+QTL Archive,brockmann_2009a,F2 intercross,NMRI8 DBA/2J,Bw4,"mouse body weight at week 4 
+     [g]",0.63656885,93,275,1
+QTL Archive,brockmann_2009b,F2 intercross,DU6i DBA/2J,bw6,"mouse body weight at week 6 
+     [g]",0.526138342,96,402,1
+QTL Archive,chesler_2012,F2 reciprocal intercross,C57BL/6J 129S1/SvImJ,B_wght,"mouse body weight 
+     [g]",0.278067622,879,373,0.930294906
+QTL Archive,doorenbos_2008b,F2 intercross,C57BL/6J.Apoe-/- A/J,BW,"Body Weight 
+     [g]",0.507917579,144,207,0.990338164
+QTL Archive,dzur-gejdosova_2012,Backcross,PWD/Ph C57BL/6J,BW,"body weight 
+     [g]",0.201640515,100,254,1
+QTL Archive,farmer_2001,F2 reciprocal intercross,C3H.Il10-/- B6.Il10-/-,Weight,"body weight 
+     [g]",0.257643856,94,411,0.99756691
+QTL Archive,feng_2009a,F2 intercross,129S1/SvImJ A/J,BW,"body weight 
+     [g]",0.507348954,91,336,0.99702381
+QTL Archive,feng_2009b,F2 intercross,129S1/SvImJ DBA/2J,BW,"body weight 
+     [g]",0.558425582,90,324,0.99382716
+QTL Archive,feng_2009c,F2 intercross,AKR/J NZW/LacJ,BW,"body weight 
+     [g]",0.600199735,94,334,0.997005988
+QTL Archive,feng_2009d,F2 intercross,BTBR T+ tf/J SWR/J,BW,"body weight 
+     [g]",0.586822773,89,336,0.976190476
+QTL Archive,feng_2009e,F2 intercross,C3H/HeJ KK/HlJ,BW,"body weight 
+     [g]",0.658991482,91,335,0.847761194
+QTL Archive,feng_2009f,F2 intercross,FVB/NJ RIIIS/J,BW,"body weight 
+     [g]",0.531468945,90,252,1
+QTL Archive,feng_2009g,F2 intercross,PL/J CBA/J,BW,"body weight 
+     [g]",0.319836092,90,324,1
+QTL Archive,feng_2009h,F2 intercross,SJL/J RIIIS/J,BW,"body weight 
+     [g]",0.644219161,91,336,1
+QTL Archive,ishimori_2004,F2 intercross,C57BL/6J 129S1/SvImJ,bw,"body weight 
+     [g]",0.583187237,111,294,1
+QTL Archive,kim_2001,Backcross,TallyHo C57BL/6J,Body_weight,"body weight measured at 20 wks 
+     [g]",0.519090499,93,206,1
+QTL Archive,kumar_2014,F2 intercross,C57BL/6J C57BL/6N,BW1,"body weight 
+     [g]",0.312353844,93,244,0.959016393
+QTL Archive,leiter_2009,Backcross,NOD/ShiLtJ 129S1/Sv.NOD-H2g7,30wk,"Body weight at 30 wks of age (if alive, mice were sacrificed when determined to be diabetic 2 wks in a row) 
+     [g]",0.569093078,308,310,0.916129032
+QTL Archive,li_2008,F2 intercross,B6.apoE-/- C3H.apoE-/-,Body_weight,body weight of mouse,0.720610412,153,241,1
+QTL Archive,mrug_2005,F2 intercross,C57BL/6J-+/cpk CAST/Ei,BodyWeight,"mouse body weight 
+     [g]",0.290678113,79,461,1
+QTL Archive,peters_2004,F2 intercross,C3H/HeJ+/wan CAST/EiJ,bw,"body weight 
+     [g]",0.190514568,93,183,1
+QTL Archive,reifsnyder_2000,Reciprocal backcross,NZO/HlLtJ NON/ShiLtJ,bw_8,"body weight 
+     [g]",0.701177349,86,204,1
+QTL Archive,smith_2002,F2 intercross,C57BL/6J CAST/EiJ,Post-diet-Bw,"body weights as measured at the end of the 10 day phenotyping period. 
+     [g]",0.690262845,107,502,1
+QTL Archive,stylianou_2006b,F2 intercross,C57BL/6J A/J,BW,"body weight 
+     [g]",0.477635491,241,614,0.975570033
+QTL Archive,sugiyama_2002,F2 intercross,BALB/cJ CBA/CaJ,bw_log,"body weight after testing, log 
+     [g]",0.605775501,97,208,0.995192308
+QTL Archive,wittenburg_2003,F2 intercross,PERA/EiJ I/LnJ,bw_start,"body weight, 6-8wks of age 
+     [g]",0.412199269,107,305,1
+QTL Archive,wittenburg_2005,F2 intercross,DBA/2J PERA/EiJ,bw,"body weight 
+     [g]",0.345864007,97,324,0.990740741
+QTL Archive,yi_2007,Backcross,M16i CAST/EiJ,bw12wk,"body weight at week 12 
+     [g]",0.556331927,92,419,1
+QTL Archive,zhang_2012,F2 intercross,C57BL/6J Apoe-/- BALB/cJ Apoe-/-,Weight,"weight 
+     [g]",0.564731208,127,266,1
